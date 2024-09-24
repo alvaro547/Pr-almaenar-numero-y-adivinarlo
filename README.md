@@ -33,5 +33,5 @@ while not adivinado:
         print("Por favor, ingresa un número entero válido.")
 
 ![image](https://github.com/user-attachments/assets/e9a12223-cb4c-4eff-bcf2-0d7e76abe500)
-![image](https://github.com/user-attachments/assets/7991b243-d6f1-4e5d-ad07-d61c01d05324)
+
 
